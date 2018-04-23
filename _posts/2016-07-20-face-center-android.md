@@ -3,6 +3,7 @@ layout: post
 title: Face centering Android library build on top of Google Vision API
 subtitle: Memory efficient Android image transformation library providing cropping above Face Detection
 mediumUrl: https://medium.freecodecamp.org/face-centering-android-library-build-on-top-of-google-vision-api-f88661b97959
+mediumImg: https://cdn-images-1.medium.com/max/899/1*9MTjfLoGfWIRXjlhMaTucw.png
 ---
 
 In our Android apps, when we crop photos to display them, we often encounter the problem of positioning faces properly.
