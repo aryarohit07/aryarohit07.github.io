@@ -3,6 +3,9 @@ layout: page
 title: Experience
 ---
 
+**Indian Institute of Technology Delhi**  
+B.Tech in Electrical Engineering (2011 - 2015)
+
 **Relevant Courses**
 * Convolutional Neural Networks for Visual Recognition (Stanford) [http://cs231n.stanford.edu/](http://cs231n.stanford.edu/index.html)
 * Natural Language Processing with Deep Learning (Stanford) [http://web.stanford.edu/class/cs224n/](http://web.stanford.edu/class/cs224n/)
