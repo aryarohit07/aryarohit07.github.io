@@ -1,5 +1,10 @@
+---
+layout: page
+title: Experience
+---
+
 **Relevant Courses**
-* Convolutional Neural Networks for Visual Recognition (Stanford) [http://cs231n.stanford.edu/](http://cs231n.stanford.edu/)
+* Convolutional Neural Networks for Visual Recognition (Stanford) [http://cs231n.stanford.edu/](http://cs231n.stanford.edu/index.html)
 * Natural Language Processing with Deep Learning (Stanford) [http://web.stanford.edu/class/cs224n/](http://web.stanford.edu/class/cs224n/)
 * Deep Learning Specialization ([Coursera](https://www.coursera.org/specializations/deep-learning)) [Certificate](https://www.coursera.org/account/accomplishments/specialization/7ZMQ2T34CKY7)
   * Neural Networks and Deep Learning
