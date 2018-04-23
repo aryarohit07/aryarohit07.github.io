@@ -23,8 +23,8 @@ use-site-title: true
     </p>
 
     <a href="{{ post.mediumUrl }}"><img src="{{  post.mediumImg }}"></a>
-	  <br/>
-    <div class="post-entry-container">
+	  
+    <div class="post-entry-container" style="margin-top: 10px;">
       {% if post.image %}
       <div class="post-image">
         <a href="{{ post.url | prepend: site.baseurl }}">
