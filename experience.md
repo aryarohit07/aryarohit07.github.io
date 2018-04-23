@@ -1,23 +1,20 @@
 **Relevant Courses**
 * Convolutional Neural Networks for Visual Recognition (Stanford) [http://cs231n.stanford.edu/](http://cs231n.stanford.edu/)
 * Natural Language Processing with Deep Learning (Stanford) [http://web.stanford.edu/class/cs224n/](http://web.stanford.edu/class/cs224n/)
-* Deep Learning Specialization (Coursera) [Certificate](https://www.coursera.org/account/accomplishments/specialization/7ZMQ2T34CKY7)
-  * nn
-* Machine Learning (Coursera) [Certificate](https://www.coursera.org/account/accomplishments/records/DJYR8NPWLFEB)
-* Reinforcement Learning (UCL) [UCL Course on RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
+* Deep Learning Specialization ([Coursera](https://www.coursera.org/specializations/deep-learning)) [Certificate](https://www.coursera.org/account/accomplishments/specialization/7ZMQ2T34CKY7)
+  * Neural Networks and Deep Learning
+  * Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+  * Structuring Machine Learning Projects
+  * Convolutional Neural Networks
+  * Sequence Models
+* Machine Learning ([Coursera](https://www.coursera.org/learn/machine-learning)) [Certificate](https://www.coursera.org/account/accomplishments/records/DJYR8NPWLFEB)
+* Reinforcement Learning [UCL Course on RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 * Data Structures and Algorithms
 
 **Software Developer, Jumbotail, Bangalore (Aug, 16 - Present)**
-* Built CNN based image classifier for non-barcoded SKUs for searching, categorizing SKUs in supply chain processes
-  * Reduced per class image requirement from 1000s to 25 while keeping accuracy ~85% (top 5)
-  * Deployed the CNN model along with barcode scanner on Android for a unified classification experience
-  * Setup the environment for collecting labelled data from android devices to improve the model with time
-* Designed asynchronous offline framework with periodic server sync for android apps being used in supply chain processes ensuring data consistency, including pending file uploads, across multiple sessions, process kill, crashes
-* Managing complete product life cycle of customer android app while keeping crash free sessions over 99.8%
-* Reduced app’s memory footprint of customer app by 50% by efficient memory reuse for bitmaps (blog)
-* Built asynchronous cart, list impression, localization, dynamic browse configurable by business/merch team
-* Increased push notification delivery from 55% to 70% by avoiding app getting killed with efficient wake-ups
-* Part of the recruiting team, built team of 14 engineers over the span of ~2 years; also mentored new joinees
+
+At Jumbotail, I have been handling complete product lifecycle of main customer app. Have designed and built asynchronous offline framework with periodic server sync for android apps for data consistency, including pending file uploads, across multiple sessions, process kill, crashes. Built asynchronous cart, dynamic browse, offers and improved Push notification delivery from 55% to 70%.
+Also part of the recruiting team, built team of 14 engineers over the span of ~2 years.
 
 **Software Developer (Android), Roposo, Gurgaon (Jan, 16 - Jul, 16)**
 
