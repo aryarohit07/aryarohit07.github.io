@@ -23,7 +23,7 @@ description: Engineer from IIT Delhi | Deep Learning Enthusiast
 
 # List of links in the navigation bar
 navbar-links:
-  Open Source Projects:
+  Open Source:
     - Face Center Crop Picasso: "https://github.com/aryarohit07/PicassoFaceDetectionTransformation"
     - Face Center Crop Glide: "https://github.com/aryarohit07/GlideFaceDetectionTransformation"
     - Face Center Crop Fresco: "https://github.com/aryarohit07/FrescoFaceDetectionProcessor"
