@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How we reduced our Android app’s memory footprint by 50%
-subtitle: Reusing bitmaps memory efficiently
+subtitle: Making bitmaps memory efficient
 mediumUrl: https://medium.freecodecamp.org/how-we-reduced-memory-footprint-by-50-in-our-android-app-49efa5c93ad8
 mediumImg: https://cdn-images-1.medium.com/fit/t/1600/480/1*IqiQOSbYUgaA_166irZLUg.jpeg
 ---
