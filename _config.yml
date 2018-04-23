@@ -23,11 +23,12 @@ description: Engineer from IIT Delhi | Deep Learning Enthusiast
 
 # List of links in the navigation bar
 navbar-links:
+  Home: "http://rohitarya.com"
   Open Source:
-    - Face Center Crop Picasso: "https://github.com/aryarohit07/PicassoFaceDetectionTransformation"
-    - Face Center Crop Glide: "https://github.com/aryarohit07/GlideFaceDetectionTransformation"
-    - Face Center Crop Fresco: "https://github.com/aryarohit07/FrescoFaceDetectionProcessor"
-    - ConvNet Self Driving Car: "https://github.com/aryarohit07/PilotNetSelfDrivingCar"
+    - ConvNet Self-Driving-Car: "https://github.com/aryarohit07/PilotNetSelfDrivingCar"
+    - Face-Center-Crop Picasso: "https://github.com/aryarohit07/PicassoFaceDetectionTransformation"
+    - Face-Center-Crop Glide: "https://github.com/aryarohit07/GlideFaceDetectionTransformation"
+    - Face-Center-Crop Fresco: "https://github.com/aryarohit07/FrescoFaceDetectionProcessor"
     - More Projects: "https://github.com/aryarohit07/"
   Experience: "experience"
 #  About Me: "aboutme"
