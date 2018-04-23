@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 
-Hi, I am a Software Engineer at Jumbotail, Bengaluru. I did mine under graduation in Electrical Engineering from Indian Institute of Technology Delhi (IIT Delhi). Prior to Jumbotail, I have worked at Roposo, Gurugram and Housing, Mumbai.
+Hi, I am a Software Engineer at Jumbotail, Bengaluru. I did mine under graduation in Electrical Engineering from **Indian Institute of Technology Delhi**. Prior to Jumbotail, I have worked at Roposo, Gurugram and Housing, Mumbai.
 
 I am interested in Machine Learning (particularly Deep Learning).
 
