@@ -27,3 +27,9 @@ Built framework to download images in background while connected to WiFi which s
 
 **Software Developer (Android), Housing.com, Mumbai (Jul, 15 - Dec, 15)**  
 At housing.com, I built supply module to on-board new properties. Also worked on several memory, network optimisation for the Housing Android app.
+
+**Community**
+* Writer on Medium Publications Towards Data Science and freeCodeCamp with over 2.5k monthly views
+* Contributor on StackOverFlow with over 5k reputations ranking top 7% overall globally
+* Maintains few open-source projects on GitHub
+* Hackathon: Mentored and judged at HackBaroda co-hosted and sponsored by Google Developer Group - Jun’15
