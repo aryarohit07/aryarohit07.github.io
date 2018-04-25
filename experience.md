@@ -2,7 +2,8 @@
 layout: page
 title: Experience
 ---
-EDUCATION  
+EDUCATION
+
 **Indian Institute of Technology Delhi**  
 B.Tech in Electrical Engineering (2011 - 2015)
 
@@ -20,12 +21,14 @@ RELEVANT COURSES
 * Data Structures and Algorithms  
 
 COMMUNITY
+
 * Writer on Medium Publications [Towards Data Science](https://towardsdatascience.com/@rohitarya) and [freeCodeCamp](https://medium.freecodecamp.org/@rohitarya) with over 2.5k monthly views
 * Contributor on [StackOverFlow](https://stackoverflow.com/users/2720553/rohit-arya) with over 5k reputations ranking top 7% overall globally
 * Maintains few open-source projects on [GitHub](https://github.com/aryarohit07)
 * Hackathon: Mentored and judged at HackBaroda co-hosted and sponsored by Google Developer Group - Jun’15  
 
-WORK EXPERIENCE  
+WORK EXPERIENCE
+
 **Software Developer, Jumbotail, Bangalore (Aug, 16 - Present)**  
 At Jumbotail, I have been handling complete product lifecycle of main customer app. Have designed and built asynchronous offline framework with periodic server sync for android apps for data consistency, including pending file uploads, across multiple sessions, process kill, crashes. Built asynchronous cart, dynamic browse, offers and improved Push notification delivery from 55% to 70%.  
 Also part of the recruiting team, built team of 14 engineers over the span of ~2 years.  
