@@ -30,13 +30,12 @@ COMMUNITY
 WORK EXPERIENCE
 
 **Software Developer, Jumbotail, Bangalore (Aug, 16 - Present)**  
-At Jumbotail, I have been handling complete product lifecycle of main customer app. Have designed and built **asynchronous offline framework** with periodic server sync for android apps for data consistency, including pending file uploads, across multiple sessions, process kill, crashes. Built asynchronous cart, dynamic browse, offers and improved Push notification delivery from 55% to 70%.  
+At Jumbotail, I have been handling complete product lifecycle of main customer app. Have designed and built an **asynchronous offline framework** with periodic server sync for android apps for data consistency, including pending file uploads, across multiple sessions, process kill, crashes. Built asynchronous cart, dynamic browse, offers and improved Push notification delivery from 55% to 70%.  
 Also part of the recruiting team, **built a team** of 14 engineers over the span of ~2 years.  
 Initiated machine learning based projects and built **ConvNet model** for searching/categorizing non-barcoded SKUs in real-time.
 
 **Software Developer (Android), Roposo, Gurgaon (Jan, 16 - Jul, 16)**  
-At Roposo, I built module to **center faces in the feed** (social network) for better engagement. Also migrated async tasks to thread pools and handler thread to make to memory and time efficient.
-Built framework to **download images in background** while connected to WiFi which **saved bandwidth and battery** of the user while browsing over mobile network.
+At Roposo, I built a module to **center faces in the feed** (social network) for better engagement. Also migrated async tasks to thread pools and handler thread for memory and time efficiency. Built framework to **download images in the background** while connected to WiFi which **saved bandwidth and battery** of the user while browsing over the mobile network.
 
 **Software Developer (Android), Housing.com, Mumbai (Jul, 15 - Dec, 15)**  
-At housing.com, I built supply module to on-board new properties. Also worked on several memory, network optimisation for the Housing Android app.
+At housing.com, I built supply module to onboard new properties. Also worked on many memory, network optimization for the Housing Android app.
