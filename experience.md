@@ -32,7 +32,7 @@ WORK EXPERIENCE
 **Software Developer, Jumbotail, Bangalore (Aug, 16 - Present)**  
 At Jumbotail, I have been handling complete product lifecycle of main customer app. Have designed and built an **asynchronous offline framework** with periodic server sync for android apps for data consistency, including pending file uploads, across multiple sessions, process kill, crashes. Built asynchronous cart, dynamic browse, offers and improved Push notification delivery from 55% to 70%.  
 Also part of the recruiting team, **built a team** of 14 engineers over the span of ~2 years.  
-Initiated machine learning based projects and built **ConvNet model** for searching/categorizing non-barcoded SKUs in real-time.
+**Initiated machine learning** based projects and built **Convolutional Neural Network model** for searching/categorizing non-barcoded SKUs in real-time with ~85% accuracy.
 
 **Software Developer (Android), Roposo, Gurgaon (Jan, 16 - Jul, 16)**  
 At Roposo, I built a module to **center faces in the feed** (social network) for better engagement. Also migrated async tasks to thread pools and handler thread for memory and time efficiency. Built framework to **download images in the background** while connected to WiFi which **saved bandwidth and battery** of the user while browsing over the mobile network.
