@@ -22,7 +22,7 @@ RELEVANT COURSES
 
 COMMUNITY
 
-* **Writer** on Medium Publications [Towards Data Science](https://towardsdatascience.com/@rohitarya) and [freeCodeCamp](https://medium.freecodecamp.org/@rohitarya) with over **2.5k monthly views**
+* **Writer** on Medium Publications [Towards Data Science](https://towardsdatascience.com/@rohitarya) and [freeCodeCamp](https://medium.freecodecamp.org/@rohitarya) with around **[3k monthly views](https://raw.githubusercontent.com/aryarohit07/aryarohit07.github.io/master/img/medium-3k-views.png)**
 * Contributor on [StackOverFlow](https://stackoverflow.com/users/2720553/rohit-arya) with over 5k reputations ranking **top 7% overall globally**
 * Maintains few open-source projects on [GitHub](https://github.com/aryarohit07)
 * **Mentored and judged at HackBaroda** co-hosted and sponsored by Google Developer Group - Jun’15  
